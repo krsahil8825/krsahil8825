@@ -74,6 +74,6 @@
 <br>
 <br>
 
-<div align="center"> <b>
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=400337&background=4137A400&center=true&width=800&height=100&lines=%F0%9F%99%8F+Thanks+For+Visiting+My+GitHub+Profile+%F0%9F%99%8F;I+hope+You+Like+My+Projects+and+Repositories" alt="Typing SVG" /></a>
-</b>bold></div>
+</div>
