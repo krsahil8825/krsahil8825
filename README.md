@@ -1,5 +1,3 @@
-<div style="background-color: rgb(13, 17, 23);">
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=4137A400&center=true&random=true&width=735&lines=%F0%9F%A4%97+Welcome+to+My+GitHub+Profile+%F0%9F%A4%97" alt="Typing SVG" /></a>
 </div>
@@ -57,27 +55,25 @@
 </div>
 
 <div align="center">
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=krsahil8825&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=2F81F7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=krsahil8825&theme=github-dark-blue&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=c97404&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krsahil8825&custom_title=Kumar%20Sahil's%20Contribution%20Graph&bg_color=0d1117&color=2F81F7&line=2F81F7&point=2F81F7&area_color=2F81F7&title_color=2F81F7&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krsahil8825&custom_title=Kumar%20Sahil's%20Contribution%20Graph&bg_color=4137A415&color=2F81F7&line=2F81F7&point=2F81F7&area_color=2F81F7&title_color=2F81F7&area=true" alt="Contribution Graph" />
 </div>
 
 <br>
 <br>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DF713&background=4137A415&center=true&multiline=true&width=800&height=100&lines=%22+Any+fool+can+write+code+that+a+computer+can+understand.;++Good+programmers+write+code+that+humans+can+understand.+%22;-+Martin+Fowler" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e5904&background=4137A415&center=true&multiline=true&width=800&height=100&lines=%22+Any+fool+can+write+code+that+a+computer+can+understand.;++Good+programmers+write+code+that+humans+can+understand.+%22;-+Martin+Fowler" alt="Typing SVG" /></a>
 </div>
 
 <br>
 <br>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D7F74F&background=4137A400&center=true&width=800&height=100&lines=%F0%9F%99%8F+Thanks+For+Visiting+My+GitHub+Profile+%F0%9F%99%8F;I+hope+You+Like+My+Projects+and+Repositories" alt="Typing SVG" /></a>
-</div>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=400337&background=4137A400&center=true&width=800&height=100&lines=%F0%9F%99%8F+Thanks+For+Visiting+My+GitHub+Profile+%F0%9F%99%8F;I+hope+You+Like+My+Projects+and+Repositories" alt="Typing SVG" /></a>
 </div>
