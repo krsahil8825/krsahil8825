@@ -1,3 +1,5 @@
+<div style="background-color: rgb(13, 17, 23);">
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=4137A400&center=true&random=true&width=735&lines=%F0%9F%A4%97+Welcome+to+My+GitHub+Profile+%F0%9F%A4%97" alt="Typing SVG" /></a>
 </div>
@@ -76,4 +78,6 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D7F74F&background=4137A400&center=true&width=800&height=100&lines=%F0%9F%99%8F+Thanks+For+Visiting+My+GitHub+Profile+%F0%9F%99%8F;I+hope+You+Like+My+Projects+and+Repositories" alt="Typing SVG" /></a>
+</div>
+
 </div>
