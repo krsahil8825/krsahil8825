@@ -39,13 +39,18 @@
 ### 🕸️ Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
 
 ### 🛠 Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Microsoft Office 365](https://img.shields.io/badge/Microsoft%20Office%20365-0078D4?logo=microsoft-office&logoColor=white&style=for-the-badge)
 
 ### 🎨 Design & Productivity
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-00AFF0.svg?style=for-the-badge&logo=skype&logoColor=white)
+![Graphic Designing](https://img.shields.io/badge/Graphic%20Designing-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Video Editing](https://img.shields.io/badge/Video%20Editing-FF5733.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 </div>
 
