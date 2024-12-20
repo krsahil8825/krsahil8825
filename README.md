@@ -136,22 +136,19 @@
 <!---------------------- skills ---------------------->
 
 
+<br>
+<br>
+<!---------------------- github contribution status ---------------------->
 
-<!---------------------- github status and graph ---------------------->
-## 📊 GitHub Stats
-
-<div align="center" style="background-color:rgb(21, 21, 21); padding: 30px; border-radius: 20px;">
+<div align="center" style="background-color:4137A400; padding: 10px; border-radius: 10px;">
 
   <!-- Title Text with Custom Color -->
-  <h2 style="color: #FF5733; font-family: Arial, sans-serif;">GitHub Total Contribution & Streak Stats</h2>
-
-  <!-- Icon with Color -->
-  <img src="https://img.icons8.com/ios/50/FF5733/github.png" style="width: 50px; height: 50px; margin-bottom: 20px;"/>
+  <h1 style="color:rgb(165, 45, 1); font-family: Arial, sans-serif;">🎯 Kumar Sahil GitHub Total Contribution & Streak Stats</h1>
 
 <div align="center">
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=krsahil8825&show_icons=true&theme=gruvbox" alt="Krsahil8825's GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsahil8825&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img width="41%" height="179px" src="https://github-readme-stats.vercel.app/api?username=krsahil8825&show_icons=true&theme=gruvbox" alt="Krsahil8825's GitHub Stats"/>
+  <img width="33%" height="179px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsahil8825&layout=compact&theme=gruvbox" alt="Top Languages" />
 
 </div>
 
@@ -160,29 +157,26 @@
 <br>
 <br>
 
-<div align="center" style="background-color:rgb(21, 21, 21); padding: 30px; border-radius: 20px;">
+<div align="center" style="background-color:4137A400; padding: 30px; border-radius: 20px;">
 
   <!-- Title Text with Custom Color -->
-  <h2 style="color: #FF5733; font-family: Arial, sans-serif;">GitHub Total Contribution & Streak Stats</h2>
-
-  <!-- Icon with Color -->
-  <img src="https://img.icons8.com/ios/50/FF5733/github.png" style="width: 50px; height: 50px; margin-bottom: 20px;"/>
-
+  <h1 style="color: rgb(165, 45, 1); font-family: Arial, sans-serif;">🔥Kumar Sahil GitHub Total Contribution & Streak Stats</h1>
+  
+  
   <!-- Streak Stats Image with Custom Border and Shadow -->
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=krsahil8825&theme=highcontrast" 
        style="border: 5px solid #FF5733; border-radius: 15px; box-shadow: 0px 0px 15px #FF5733;"/>
 </div>
-<!---------------------- github status and graph ---------------------->
+<!---------------------- github contribution status ---------------------->
 
 
 
 <!---------------------- github contribution graph ---------------------->
-## 📈 Contribution Graph
 
-<div align="center" style="background-color:rgb(21, 21, 21); padding: 30px; border-radius: 20px;">
-  <h2 style="color: #FF5733; font-family: Arial, sans-serif;">Kumar Sahil's Contribution Graph</h2>
-  <img src="https://img.icons8.com/ios/50/FF5733/github.png" style="width: 50px; height: 50px; margin-bottom: 20px;"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krsahil8825&custom_title=Kumar%20Sahil's%20Contribution%20Graph&bg_color=0d1117&color=008080&line=20B2AA&point=00CED1&area_color=20B2AA&title_color=ffeb3b&area=true" 
+<div align="center" style="background-color:4137A400; padding: 30px; border-radius: 20px;">
+  <h1 style="color:rgb(165, 45, 1); font-family: Arial, sans-serif;">🚀 Kumar Sahil's Contribution Graph</h>
+  <hr>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krsahil8825&custom_title=Kumar%20Sahil's%20Contribution%20Graph&bg_color=0d1117&color=808080&line=7db390&point=00CED1&area_color=7db390&title_color=ffeb3b&area=true" 
        alt="Contribution Graph" 
        style="border: 5px solid #FF5733; border-radius: 15px; box-shadow: 0px 0px 15px #FF5733;"/>
 </div>
@@ -209,7 +203,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=0000FF&background=4137A400&center=true&multiline=true&width=700&height=100&lines=%F0%9F%A4%97+Thanks+For+Visiting+My+GitHub+Profile+%F0%9F%A4%97;I+Hope+You+Like+%F0%9F%98%81" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=FF5733&background=4137A400&center=true&multiline=true&width=700&height=100&lines=%F0%9F%A4%97+Thanks+For+Visiting+My+GitHub+Profile+%F0%9F%A4%97;I+Hope+You+Like+%F0%9F%98%81" 
          alt="Outro" 
          style="border: 5px solid white;" />
   </a>
