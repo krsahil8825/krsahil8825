@@ -1,5 +1,5 @@
 <!---------------------- greeting ---------------------->
-<div align="center">
+<div align="center" style="background-color: var(--background-color); padding: 20px; border-radius: 10px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=500&background=4137A400&center=true&random=true&width=735&lines=%F0%9F%A4%97+Welcome+to+My+GitHub+Profile+%F0%9F%A4%97&border=5&borderColor=FF4081" alt="Welcome to my GitHub Profile" />
   </a>
@@ -7,17 +7,15 @@
 
 <br>
 
-<div align="center">
+<div align="center" style="background-color: var(--background-color); padding: 20px; border-radius: 10px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=500&background=4137A400&center=true&width=735&lines=%F0%9F%91%8B+My+name+is+Kumar+Sahil;%F0%9F%8E%93+Pursuing+Bachelor's+in+Computer+Application+(Hons.)+%F0%9F%8C%8F&border=5&borderColor=FF4081" alt="My Introduction" />
   </a>
 </div>
 <!---------------------- greeting ---------------------->
 
-
-
 <!---------------------- profile status ---------------------->
-<div>
+<div style="background-color: var(--background-color); padding: 10px; border-radius: 10px;">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=krsahil8825&label=Profile%20views&color=0e75b6&style=flat" alt="Total no of visits" />
 </p>
@@ -28,26 +26,21 @@
 </div>
 <!---------------------- profile status ---------------------->
 
-
-
-<!---------------------- github troffies ---------------------->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krsahil8825&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=8" width="100%" />
+<!---------------------- github trophies ---------------------->
+<div align="left" style="background-color: var(--background-color); padding: 30px; border-radius: 20px;">
+  <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🏆 GitHub Trophies</h1>
+  <div align="center" style="background-color: var(--background-color); padding: 20px; border-radius: 10px;">
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=krsahil8825&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=8" width="100%" />
+  </div>
 </div>
-
 </div>
-<!---------------------- github troffies ---------------------->
-
-
+<!---------------------- github trophies ---------------------->
 
 <!---------------------- social media platforms ---------------------->
-## 🌐 Connect With Me
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="left" style="background-color: var(--background-color); padding: 30px; border-radius: 20px;">
+  <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🌐 Connect With Me</h1>
+  <div align="center" style="display: flex; justify-content: center; gap: 10px; background-color: var(--background-color); padding: 20px; border-radius: 10px;">
   <!-- LinkedIn Badge with LinkedIn's official color -->
   <a href="https://linkedin.com/in/krsahil8825">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
@@ -83,16 +76,14 @@
     <img src="https://img.shields.io/badge/Discord-%2373B0FF.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
   </a>
 </div>
-
-
+</div>
 <!---------------------- social media platforms ---------------------->
 
-
-
 <!---------------------- skills ---------------------->
-## 💻 Tech Skills
 
-<div align="center">
+<div align="left" style="background-color: var(--background-color); padding: 30px; border-radius: 20px;">
+  <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">💻 Tech Skills</h1>
+  <div align="center" style="background-color: var(--background-color); padding: 20px; border-radius: 10px;">
 
 ### 🔨 Languages
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
@@ -129,83 +120,55 @@
   <!-- Graphic Designing (Adobe Photoshop) with its official color -->
   <img src="https://img.shields.io/badge/Graphic%20Designing-%23E50000.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Graphic Designing" />
   <!-- Video Editing (Adobe Premiere Pro) with its official color -->
-  <img src="https://img.shields.io/badge/Video%20Editing-%23009CDE.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Video Editing" />
+  <img src="https://img.shields.io/badge/Video%20Editing-%23F8A300.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Video Editing" />
+</div>
+</div>
 </div>
 
-</div>
+
 <!---------------------- skills ---------------------->
 
+<br>
 
-<br>
-<br>
 <!---------------------- github contribution status ---------------------->
+<div align="Left" style="background-color: var(--background-color); padding: 10px; border-radius: 10px;">
+  <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🎯 Kumar Sahil GitHub Total Contribution & Streak Stats</h1>
 
-<div align="center" style="background-color:4137A400; padding: 10px; border-radius: 10px;">
-
-  <!-- Title Text with Custom Color -->
-  <h1 style="color:rgb(165, 45, 1); font-family: Arial, sans-serif;">🎯 Kumar Sahil GitHub Total Contribution & Streak Stats</h1>
-
-<div align="center">
-
-  <img width="41%" height="179px" src="https://github-readme-stats.vercel.app/api?username=krsahil8825&show_icons=true&theme=gruvbox" alt="Krsahil8825's GitHub Stats"/>
-  <img width="33%" height="179px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsahil8825&layout=compact&theme=gruvbox" alt="Top Languages" />
-
-</div>
-
+  <div align="center">
+    <img width="41%" height="179px" src="https://github-readme-stats.vercel.app/api?username=krsahil8825&show_icons=true&theme=gruvbox" alt="Krsahil8825's GitHub Stats"/>
+    <img width="33%" height="179px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsahil8825&layout=compact&theme=gruvbox" alt="Top Languages" />
+  </div>
 </div>
 
 <br>
+
+<div align="left" style="background-color: var(--background-color); padding: 30px; border-radius: 20px;">
+  <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🔥 Kumar Sahil GitHub Total Contribution & Streak Stats</h1>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=krsahil8825&theme=highcontrast" style="border: 5px solid #FF5733; border-radius: 15px; box-shadow: 0px 0px 15px #FF5733;" />
+</div>
+
 <br>
 
-<div align="center" style="background-color:4137A400; padding: 30px; border-radius: 20px;">
-
-  <!-- Title Text with Custom Color -->
-  <h1 style="color: rgb(165, 45, 1); font-family: Arial, sans-serif;">🔥Kumar Sahil GitHub Total Contribution & Streak Stats</h1>
-  
-  
-  <!-- Streak Stats Image with Custom Border and Shadow -->
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=krsahil8825&theme=highcontrast" 
-       style="border: 5px solid #FF5733; border-radius: 15px; box-shadow: 0px 0px 15px #FF5733;"/>
-</div>
-<!---------------------- github contribution status ---------------------->
-
-
-
-<!---------------------- github contribution graph ---------------------->
-
-<div align="center" style="background-color:4137A400; padding: 30px; border-radius: 20px;">
-  <h1 style="color:rgb(165, 45, 1); font-family: Arial, sans-serif;">🚀 Kumar Sahil's Contribution Graph</h>
+<div align="left" style="background-color: var(--background-color); padding: 30px; border-radius: 20px;">
+  <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🚀 Kumar Sahil's Contribution Graph</h1>
   <hr>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krsahil8825&custom_title=Kumar%20Sahil's%20Contribution%20Graph&bg_color=0d1117&color=808080&line=7db390&point=00CED1&area_color=7db390&title_color=ffeb3b&area=true" 
-       alt="Contribution Graph" 
-       style="border: 5px solid #FF5733; border-radius: 15px; box-shadow: 0px 0px 15px #FF5733;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krsahil8825&custom_title=Kumar%20Sahil's%20Contribution%20Graph&bg_color=0d1117&color=808080&line=7db390&point=00CED1&area_color=7db390&title_color=ffeb3b&area=true" alt="Contribution Graph" style="border: 5px solid #FF5733; border-radius: 15px; box-shadow: 0px 0px 15px #FF5733;" />
 </div>
-
-
 <!---------------------- github contribution graph ---------------------->
 
-
+<br>
 
 <!---------------------- outro of my github profile ---------------------->
-<br>
-<br>
-
-<div align="center">
+<div align="center" style="background-color: var(--background-color); padding: 20px; border-radius: 10px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=00BFFF&background=4137A400&center=true&multiline=true&width=800&height=100&weight=700&lines=%22+Any+fool+can+write+code+that+a+computer+can+understand.;++Good+programmers+write+code+that+humans+can+understand.+%22;-+By+Martin+Fowler" 
-         alt="Thought" 
-         style="border: 5px solid white;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=00BFFF&background=4137A400&center=true&multiline=true&width=800&height=100&weight=700&lines=%22+Any+fool+can+write+code+that+a+computer+can+understand.;++Good+programmers+write+code+that+humans+can+understand.+%22;-+By+Martin+Fowler" alt="Thought" style="border: 5px solid white;" />
   </a>
 </div>
 
 <br>
-<br>
 
-<div align="center">
+<div align="center" style="background-color: var(--background-color); padding: 20px; border-radius: 10px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=FF5733&background=4137A400&center=true&multiline=true&width=700&height=100&lines=%F0%9F%A4%97+Thanks+For+Visiting+My+GitHub+Profile+%F0%9F%A4%97;I+Hope+You+Like+%F0%9F%98%81" 
-         alt="Outro" 
-         style="border: 5px solid white;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=FF5733&background=4137A400&center=true&multiline=true&width=700&height=100&lines=%F0%9F%A4%97+Thanks+For+Visiting+My+GitHub+Profile+%F0%9F%A4%97;I+Hope+You+Like+%F0%9F%98%81" alt="Outro" style="border: 5px solid white;" />
   </a>
 </div>
-<!---------------------- outro of my github profile ---------------------->
