@@ -151,7 +151,7 @@
 
 <div align="left" style="background-color: var(--background-color); padding: 30px; border-radius: 20px;">
   <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🚀 Kumar Sahil's Contribution Graph</h1>
-  <hr>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krsahil8825&custom_title=Kumar%20Sahil's%20Contribution%20Graph&bg_color=0d1117&color=808080&line=7db390&point=00CED1&area_color=7db390&title_color=ffeb3b&area=true" alt="Contribution Graph" style="border: 5px solid #FF5733; border-radius: 15px; box-shadow: 0px 0px 15px #FF5733;" />
 </div>
 <!---------------------- github contribution graph ---------------------->
