@@ -39,7 +39,9 @@
 
 <!---------------------- social media platforms ---------------------->
 <div align="left" style="background-color: var(--background-color); padding: 30px; border-radius: 20px;">
+  <div align="left">
   <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🌐 Connect With Me</h1>
+  </div>
   <div align="center" style="display: flex; justify-content: center; gap: 10px; background-color: var(--background-color); padding: 20px; border-radius: 10px;">
   <!-- LinkedIn Badge with LinkedIn's official color -->
   <a href="https://linkedin.com/in/krsahil8825">
