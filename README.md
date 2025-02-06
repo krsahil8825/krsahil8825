@@ -63,16 +63,6 @@
     <img src="https://img.shields.io/badge/Gmail-%23D44638.svg?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
   
-  <!-- HackerRank Badge with HackerRank's official color -->
-  <a href="https://www.hackerrank.com/profile/krsahil8825">
-    <img src="https://img.shields.io/badge/HackerRank-%2331C44D.svg?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank" />
-  </a>
-  
-  <!-- LeetCode Badge with LeetCode's official color -->
-  <a href="https://leetcode.com/krsahil8825/">
-    <img src="https://img.shields.io/badge/LeetCode-%23F2C037.svg?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
-  </a>
-  
   <!-- Discord Badge with Discord's official color -->
   <a href="https://discord.com/users/krsahil8825">
     <img src="https://img.shields.io/badge/Discord-%2373B0FF.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
