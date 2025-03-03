@@ -25,7 +25,7 @@
 
 <!---------------------- github trophies ---------------------->
 <div align="left" style="background-color: var(--background-color); padding: 30px; border-radius: 20px;">
-  <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🏆 GitHub Trophies</h1>
+  <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🏆 GitHub Trophies and Achievement</h1>
   <div align="center" style="background-color: var(--background-color); padding: 20px; border-radius: 10px;">
     <div align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=krsahil8825&theme=algolia&no-frame=true&bg=true&row=2&column=8" width="100%" style="border: 5px solid rgb(70, 225, 252); border-radius: 15px; box-shadow: 0px 0px 10px rgb(70, 225, 252);" />
@@ -62,7 +62,7 @@
 <!---------------------- skills ---------------------->
 
 <div align="left" style="background-color: var(--background-color); padding: 30px; border-radius: 20px;">
-  <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">💻 Tech Skills</h1>
+  <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">💻 My Tech Skills</h1>
   <div align="center" style="background-color: var(--background-color); padding: 20px; border-radius: 10px;">
     <h3>🔨 Languages</h3>
     <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
@@ -97,7 +97,7 @@
 <!---------------------- github contribution status and status ---------------------->
 <div>
   <div align="Left" style="background-color: var(--background-color); padding: 10px; border-radius: 10px;">
-    <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🎯 Kumar Sahil's Repository Stats</h1>
+    <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🎯 My Repository Stats</h1>
   </div>
   
   <div align="center">
@@ -120,7 +120,7 @@
 <br>
 
 <div align="left" style="background-color: var(--background-color); padding: 30px; border-radius: 20px;">
-  <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🔥 Kumar Sahil's Total Contribution & Streak Stats</h1>
+  <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🔥 My Total Contribution & Streak Stats</h1>
     <div align="center">
         <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=krsahil8825&theme=algolia" 
             alt="GitHub most language used" 
@@ -131,7 +131,7 @@
 <br>
 
 <div align="left" style="background-color: var(--background-color); padding: 30px; border-radius: 20px;">
-  <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🚀 Kumar Sahil's Contribution Graph</h1>
+  <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🚀 My Contribution Graph</h1>
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=krsahil8825&custom_title=Kumar%20Sahil's%20Contribution%20Graph&bg_color=080c2c&color=808080&line=7db390&point=00CED1&area_color=7db390&title_color=ffeb3b&area=true" alt="Contribution Graph" style="border: 5px solid rgb(70, 225, 252); border-radius: 15px; box-shadow: 0px 0px 10px rgb(70, 225, 252);" />
   </div>
