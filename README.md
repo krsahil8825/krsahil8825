@@ -143,7 +143,7 @@
 <div>
   <div align="center" style="background-color: var(--background-color); margin: 10px; padding: 20px; border-radius: 10px;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=00BFFF&background=080c2c&center=true&multiline=true&width=800&height=100&weight=700&lines=%22+Any+fool+can+write+code+that+a+computer+can+understand.;++Good+programmers+write+code+that+humans+can+understand.+%22;-+By+Martin+Fowler" alt="Thought" style="border: 5px solid rgb(70, 225, 252); box-shadow: 0px 0px 10px rgb(70, 225, 252); border-radius: 15px;" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=00BFFF&background=4137A400&center=true&multiline=true&width=800&height=100&weight=700&lines=%22+Any+fool+can+write+code+that+a+computer+can+understand.;++Good+programmers+write+code+that+humans+can+understand.+%22;-+By+Martin+Fowler" alt="Thought" style="border: 5px solid rgb(70, 225, 252); box-shadow: 0px 0px 10px rgb(70, 225, 252); border-radius: 15px;" />
     </a>
   </div>
 
@@ -151,7 +151,7 @@
 
   <div align="center" style="background-color: var(--background-color); padding: 20px; border-radius: 10px;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=00BFFF&background=080c2c&center=true&multiline=true&width=700&height=100&lines=%F0%9F%A4%97+Thanks+For+Visiting+My+GitHub+Profile+%F0%9F%A4%97;%F0%9F%98%81+I+Hope+You+Like+%F0%9F%98%81;&#x1F60A+Always+Be+Happy+&#x1F60A" alt="Outro" style="border: 5px solid rgb(70, 225, 252);box-shadow: 0px 0px 10px rgb(70, 225, 252); border-radius: 15px;" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=00BFFF&background=4137A400&center=true&multiline=true&width=700&height=100&lines=%F0%9F%A4%97+Thanks+For+Visiting+My+GitHub+Profile+%F0%9F%A4%97;%F0%9F%98%81+I+Hope+You+Like+%F0%9F%98%81;&#x1F60A+Always+Be+Happy+&#x1F60A" alt="Outro" style="border: 5px solid rgb(70, 225, 252);box-shadow: 0px 0px 10px rgb(70, 225, 252); border-radius: 15px;" />
     </a>
   </div>
 </div>
