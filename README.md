@@ -13,16 +13,6 @@
 <br>
 <!---------------------- greeting ---------------------->
 
-<!---------------------- profile status ---------------------->
-<div style="background-color: var(--background-color); padding: 10px; border-radius: 10px;">
-    <p align="left"> 
-        <img src="https://komarev.com/ghpvc/?username=krsahil8825&label=Profile%20views&color=0e75b6&style=flat" alt="Total no of visits" />
-    </p>
-    <img src="https://img.shields.io/github/followers/krsahil8825?style=flat-square&logo=github" alt="GitHub followers" />
-    <img src="https://img.shields.io/github/stars/krsahil8825?style=flat-square&logo=github" alt="GitHub stars" />
-</div>
-<!---------------------- profile status ---------------------->
-
 <!---------------------- github trophies ---------------------->
 <div align="left" style="background-color: var(--background-color); padding: 30px; border-radius: 20px;">
   <h1 style="color: var(--title-color); font-family: Arial, sans-serif;">🏆 GitHub Trophies and Achievement</h1>
