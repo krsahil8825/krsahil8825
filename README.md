@@ -92,10 +92,14 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=krsahil8825&theme=darkhub&no-frame=true&row=2&column=8" alt="GitHub Stats" width="100%" height="auto"/>
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=krsahil8825&show_icons=true&theme=github_dark" alt="GitHub Stats" width="425" height="200"/>
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsahil8825&layout=compact&theme=github_dark" alt="Top Languages" width="500"  height="200"/>
-<br/><br/>
+<div width="auto"  height="200">
+     <img src="https://github-readme-stats.vercel.app/api?username=krsahil8825&show_icons=true&theme=github_dark" alt="GitHub Stats" width="auto" height="200"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsahil8825&layout=compact&theme=github_dark" alt="Top Languages" width="auto"  height="200"/>
+</div>
+<div width="500"  height="200">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krsahil8825&theme=github_dark" width="250"  height="200" />
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krsahil8825&theme=github_dark" width="250"  height="200" />
+</div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krsahil8825&theme=github_dark" width="425"  height="200"/>
 <br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krsahil8825&custom_title=Kumar%20Sahil's%20Contribution%20Graph&bg_color=0d1117&color=c9d1d9&line=1e00ff&point=0048ff&area_color=30363d&title_color=00c8ff&area=true" alt="Contribution Graph" height="300" width="800" />
