@@ -1,4 +1,4 @@
-<!-- Profile Header -->
+
 <div align="center" style="padding: 20px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=500&background=4137A400&center=true&width=735&lines=🥳+Welcome+to+My+GitHub+Profile+🥳;👋+Hi,+I+am+Kumar+Sahil+🧑&border=5&borderColor=FF4081" alt="Welcome to my GitHub Profile" />
     <br/>
@@ -7,11 +7,11 @@
 <br>
 
 
-<!-- 💻 Skills Section -->
-<h1 align="left">💻 My Tech Stack</h1>
+
+<h1 align="left" >💻 My Tech Stack</h1>
 <div align="center">
 
-<!-- Languages -->
+
 <h3>🔤 Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<!-- Frameworks & Libraries -->
+
 <h3>⚡ Frameworks & Libraries</h3>
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -32,13 +32,13 @@
   <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white"/>
 </p>
 
-<!-- Databases -->
+
 <h3>🗃️ Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
-<!-- Tools -->
+
 <h3>🛠 Tools & Utilities</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -48,29 +48,29 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-<!-- OS -->
+
 <h3>💻 Operating Systems</h3>
 <p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-<!-- Design -->
+
 <h3>🎨 Design & Prototyping</h3>
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-<!-- Core Concepts -->
+
 <h3>📚 Core CS Concepts</h3>
 <p>
-  <img src="https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Operating%20Systems-0078D6?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
-<!-- Others -->
+
 <h3>📎 Other Skills</h3>
 <p>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
@@ -81,15 +81,13 @@
 </div>
 
 
----
 
-<!-- 📈 GitHub Stats -->
 
 <h1 align="left">🔥 My GitHub Stats</h1>
 
 <div align="center">
 
-![juicyfresh](https://github-profile-trophy.vercel.app/?username=krsahil8825&theme=darkhub&no-frame=true&row=2&column=8)
+<img src="https://github-profile-trophy.vercel.app/?username=krsahil8825&theme=darkhub&no-frame=true&row=2&column=8" alt="GitHub Stats" width="100%" height="auto"/>
 <br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=krsahil8825&show_icons=true&theme=github_dark" alt="GitHub Stats" width="425" height="200"/>
 <br/><br/>
@@ -101,7 +99,6 @@
 
 </div>
 
----
 
 <h1 align="left">🌐 Let's Collaborate</h1>
 
@@ -127,7 +124,6 @@
   </a>
 </p>
 
----
 
 <h1 align="center">🌟 Thank's for Visiting!</h1>
 <div align="center" style="background-color: var(--background-color); margin: 10px; padding: 20px; border-radius: 10px;">
