@@ -1,3 +1,6 @@
+<!-- Using HTML instead of pure Markdown because GitHub README supports HTML, 
+     and it allows for better customization, styling, and layout control. -->
+<!-- ---------------------------------------------------------------------------------  -->
 
 <div align="center" style="padding: 20px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=500&background=4137A400&center=true&width=735&lines=🥳+Welcome+to+My+GitHub+Profile+🥳;👋+Hi,+I+am+Kumar+Sahil+🧑&border=5&borderColor=FF4081" alt="Welcome to my GitHub Profile" />
