@@ -56,3 +56,5 @@
 
 
 <p align="center">✨ “Good programmers write code that humans can understand.” — Martin Fowler ✨</p>
+
+[![An image of @krsahil8825's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krsahil8825)](https://holopin.io/@krsahil8825)
