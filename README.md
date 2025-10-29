@@ -138,3 +138,6 @@
     <br><br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=00BFFF&background=4137A400&center=true&multiline=true&width=700&height=100&lines=%F0%9F%A4%97+Thanks+For+Visiting+%F0%9F%A4%97" alt="Outro" />
 </div>
+
+
+[![An image of @krsahil8825's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krsahil8825)](https://holopin.io/@krsahil8825)
