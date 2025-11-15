@@ -9,8 +9,10 @@
 
 **Languages**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -33,8 +35,9 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 **Core CS Concepts**  
-![OOP](https://img.shields.io/badge/OOP-3670A0?style=flat&logo=python&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat&logo=databricks&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-4B8BBE?style=flat&logo=databricks&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%23ED8B00?Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Operating Systems](https://img.shields.io/badge/OS-0078D6?style=flat&logo=linux&logoColor=white)
 
 
